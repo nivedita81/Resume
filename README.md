@@ -3,7 +3,7 @@ A tech enthusiast who has had an expertise in the field of analysis of data, dat
 
 ## Education:
 ### University of North Carolina at Charlotte(Expected May 2021)
-*Master of Science, Computer Science
+Master of Science, Computer Science
 ### College of Engineering Guindy, Anna University(May 2016)
 Bachelor of Technology, Information Technology
 
