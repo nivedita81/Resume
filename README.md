@@ -69,7 +69,7 @@ Bachelor of Technology, Information Technology
 
 ## Academic Projects
 ### Covid-19 Tracker Application using React, Material UI, Firebase
-Developed a single page web application using React that tracks the total number of live Corona cases worldwide with graphical representation using Maps and Charts fetching from disease.sh API service. Developed using the technologies React.js, Material UI, Chart.js and deployed using Firebase
+Developed a single page web application using React that tracks the total number of live Corona cases worldwide with graphical representation using Maps and Charts fetching from disease.sh API service. Developed using the technologies React.js, Material UI, Chart.js and deployed using the Firebase
 
 ### Movie Database using React, HTML5, CSS
 Developed a single page web application that lets you search for all movies related to a search query fetching the results from the Movie Database API. Developed using the technologies React.js, HTML5 and CSS
