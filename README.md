@@ -1,5 +1,5 @@
 # Nivedita Veeramanigandan
-A tech enthusiast who has had an expertise in the field of analysis of data, data in Web mixed with dashboard building. Currently pursuing my Masters in University of North Carolina at Charlotte, USA and learning new technologies with the opportunity in hand and putting it to use in my projects and elevating my skillset.
+A tech enthusiast who has had expertise in the field of analysis of data, data in Web mixed with dashboard building. Currently pursuing my Masters in the University of North Carolina at Charlotte, USA, and learning new technologies with the opportunity in hand and putting it to use in my projects and elevating my skillset.
 
 ## Education:
 ### University of North Carolina at Charlotte(Expected May 2021)
@@ -13,7 +13,7 @@ Bachelor of Technology, Information Technology
 * JavaScript
 * Java
 * HTML5
-* CSS
+* CSS3
 * SQL
 
 **Databases:**
@@ -23,8 +23,8 @@ Bachelor of Technology, Information Technology
 * NoSQL - MongoDB
 
 **Visualization Tools:**
-* QlikView
 * Tableau
+* QlikView
 
 **Tools/Technologies:**
 * React
@@ -46,39 +46,40 @@ Bachelor of Technology, Information Technology
 
 
 ## Work Experience:
-### LatentView Analytics, Chennai, India - Data Analyst(Sept 2016 - May 2019)
-#### Web Analytics Insight(Client: Mead Johnson)
-* Contributed the first Web Analytics Insight platform in the organization for an American based Child Healthcare client
-* Enrollment in around 30 websites increased by 15% based on the insights provided
-* Conducted a workshop across the organization on Web Analytics and conducted Knowledge Transfer sessions to the new team members
-  Built using Google Analytics and Google Tag Manager
-#### Warehouse Capacity Tooling(Client: Pepsico)
-* Built a dashboard with a holistic view of the warehouse capacity data for an American based multinational food, snack, and beverage corporation which was       presented across different sources and formats
-* Built using Trifacta and Tableau
-#### Oil and Gas Corporation Regional Insight Dashboard(Client: Exxon Mobil)
-* Built several dashboards for an American multinational oil and gas corporation to let the clients know how the business is in each region of the continent     and analyzing them and helped them improve their shortcomings and increase the sales in those regions
-* The entire project was done in an agile methodology
-* Built separate dashboards for various locations using Tableau 
-#### Business Market Combination Dashboard(Client: Philips)
-* Built a dashboard for a Dutch multinational HealthCare & Lighting based client to keep track of their KPIs across product lines
-* Built using Qlikview, ETL process of extracting data from MS Excel and transforming it to Qlikview’s format
-#### Ride-Sharing Company Regional Insights(Client: Uber)
-* Worked on generating insights across APAC for a ride-sharing based company using their internal tools
-* Helped in analyzing the cancellation/booking rate and other such custom metrics in a single holistic view
+### LatentView Analytics, Chennai, India - Data Analyst(Sep 2016 - May 2019)
+#### Web Analyst (Client: Mead Johnson)
+* Shaped the first Web Analytics insights platform in the organization for an American based Child Healthcare client where the overall conversion rate in around 30 websites accelerated by 15% based on the insights provided
+* Conducted a workshop across the organization on Web Analytics and Knowledge Transfer sessions to the new team members
+* Tools: Google Analytics, Google Tag Manager
+
+#### Business Intelligence Developer (Client: Exxon Mobil, Philips, Pepsico)
+* Formulated wireframes, developed several regional insight dashboards for an American multinational oil & gas corporation to visualize the business performance in each region of the continent, analyzed, helped them improve the shortcomings and increase the sales in those regions in an agile manner
+* Built a business-market combination dashboard for a Dutch multinational HealthCare & Lighting based client to keep track of their KPIs across product lines where data was processed through ETL process
+* Developed a warehouse capacity tooling dashboard with a holistic view of the warehouse data for an American based multinational food, snack, and beverage corporation which was presented across different sources and formats
+* Tools: Tableau, Qlikview, Microsoft Excel, Trifacta
+#### SQL Developer (Client: Uber)
+* Worked on generating insights across APAC for a ride-sharing company in analyzing the cancellation/booking rate and other such custom metrics in a single holistic view
 * All insights were generated using SQL queries
 
 ## Academic Projects
-### Covid-19 Tracker Application using React, Material UI, Firebase
-Developed a single page web application using React that tracks the total number of live Corona cases worldwide with graphical representation using Maps and Charts fetching from disease.sh API service. Developed using the technologies React.js, Material UI, Chart.js and deployed using the Firebase
+### Interactive Resume Dashboard
+* Generated an advanced interactive dashboard in Tableau with quick, context, global filters, and calculated fields to visualize cleaned data from Google Sheets in charts and timelines
+* Tools: Tableau, Google Sheets
+### Covid-19 Tracker Web Application
+* Developed a single-page web application using React that tracks the total number of live Corona cases worldwide with graphical representation using Maps and Charts with data being fetched from disease.sh API service	
+* Tools: React.js, Material UI, Chart.js, Firebase
+### Movie Database Web Application
+* Developed a single-page web application that lets you search for all movies related to a search query fetching the results from the Movie Database API
+* Tools: React.js, HTML5, CSS3
+### Nokia Snake Game Application
+* Developed the popular Nokia Snake Game where the snake grows in size after capturing the apples and the score gets updated dynamically
+* Tools: HTML5, CSS3, JavaScript
+### SlapJack Game Application
+* Developed a card game where people flip open the card from a deck of cards until they get a Jack and whoever gets it first will be declared the winner
+* Tools: HTML5, CSS3, JavaScript
+### Contacts Manager Android Application
+* Developed an Android application in Android Studio to manage the contacts for each user and store their contact details and contact image in Firebase Storage with users being authenticated using the Firebase authentication system. Contacts are displayed in a RecyclerView
+* Tools: Java, Firebase(Storage, Authentication, real-time database)
 
-### Movie Database using React, HTML5, CSS
-Developed a single page web application that lets you search for all movies related to a search query fetching the results from the Movie Database API. Developed using the technologies React.js, HTML5 and CSS
-
-### Snake Game using HTML5, CSS, JavaScript
-Developed the popular Nokia Snake Game where the snake grew in size after capturing the apples and the scores were updated dynamically. Developed using HTML5, CSS and JavaScript
-
-### Contacts Manager Application using Java, Firebase and Android Studio
-Developed an Android application to manage the contacts for each user and stored their contact details and contact image in Firebase Storage alongside user details and were authenticated using Firebase authentication where the contacts were displayed in a Recycler View. Tools and technologies used were Android Studio, Java, Firebase storage, Firebase Authentication, Firebase real-time database
-
-### Bookworm Meetup Website using Node.js, MongoDB, Express
-Implemented a responsive website as a meetup space for book lovers where users can create an account, create a new event, respond to an event, rsvp to it. Built using NodeJS, Mongo DB, Express framework
+## Certifications
+* Google Analytics Certification
